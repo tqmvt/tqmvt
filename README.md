@@ -10,6 +10,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS)&nbsp;
 ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
@@ -28,6 +29,11 @@
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-05122A?style=flat&logo=Ethers.js)&nbsp;
+![Wagmi](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Wagmi)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
+![Cosmos](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Cosmos)&nbsp;
 
 ### :crossed_swords: &nbsp;Codewars
 
