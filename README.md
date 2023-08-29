@@ -29,7 +29,7 @@
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=Web3.js)&nbsp;
+![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=Web3)&nbsp;
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-05122A?style=flat&logo=Ethereum)&nbsp;
 ![Wagmi](https://img.shields.io/badge/-Wagmi-05122A?style=flat&logo=Wagmi)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
