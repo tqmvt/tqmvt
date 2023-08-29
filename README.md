@@ -33,7 +33,7 @@
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-05122A?style=flat&logo=Ethereum)&nbsp;
 ![Wagmi](https://img.shields.io/badge/-Wagmi-05122A?style=flat&logo=Wagmi)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
-![Cosmos](https://img.shields.io/badge/-Cosmos-05122A?style=flat&logo=Cosmos)&nbsp;
+![Cosmos SDK](https://img.shields.io/badge/-Cosmos%20SDK-05122A?style=flat&logo=Cosmos)&nbsp;
 
 <div align="right">
   <br>
