@@ -35,12 +35,6 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
 ![Cosmos](https://img.shields.io/badge/-Cosmos-05122A?style=flat&logo=Cosmos)&nbsp;
 
-### :crossed_swords: &nbsp;Codewars
-
-<a href="https://www.codewars.com/users/flashdebugger" target="_blank">
-  <img src="https://www.codewars.com/users/flashdebugger/badges/micro" alt="codewars" />
-</a>
-
 <div align="right">
   <br>
   <a href="https://gist.github.com/tqmvt/" target="_blank"> :octocat: </a>
