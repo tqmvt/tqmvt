@@ -3,6 +3,7 @@
 
 <div align="right">
   <br>
+  <a href="https://gist.github.com/tqmvt/" target="_blank"> :twitter: </a>
   <a href="https://gist.github.com/tqmvt/" target="_blank"> :octocat: </a>
   <br>
 </div>
