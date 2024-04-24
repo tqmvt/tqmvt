@@ -10,7 +10,10 @@
 </div>
 
 <br>
-<div align="right">
+<div style="display:flex; align-items:center; justify-content:space-between;">
+  <a href="https://www.codewars.com/users/tqmvt" target="_blank">
+    <img src="https://www.codewars.com/users/tqmvt/badges/micro" />
+  </a>
   <a href="https://gist.github.com/tqmvt/" target="_blank"> :octocat: </a>
 </div>
 <br>
