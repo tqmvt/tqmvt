@@ -10,7 +10,7 @@
 </div>
 
 <br>
-<div style="display:flex; align-items:center; justify-content:space-between;">
+<div style="display:flex; align-items:center; justify-content:space-between; flex-direction: row;">
   <a href="https://www.codewars.com/users/tqmvt" target="_blank">
     <img src="https://www.codewars.com/users/tqmvt/badges/micro" />
   </a>
