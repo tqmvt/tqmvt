@@ -5,10 +5,10 @@
 <br>
 
 ```
-┏┳┓    ┓      ┓     
+┏┳┓    ┓      ┓
  ┃ ┏┓┓┏┃┏┓┏┓  ┃ ┏┓┏┓
- ┻ ┗┻┗┫┗┗┛┛   ┗┛┗ ┗ 
-      ┛             
+ ┻ ┗┻┗┫┗┗┛┛   ┗┛┗ ┗
+      ┛
 ```
 
 <p align="center"><b>Visitor's Count</b></p>
@@ -22,11 +22,17 @@
 </div>
 
 <br>
-<div align="left">
+<div align="center">
   <a href="https://www.codewars.com/users/tqmvt" target="_blank">
     <img src="https://www.codewars.com/users/tqmvt/badges/micro" />
   </a>
+  <a href="https://wakatime.com/@tqmvt" target="_blank">
+    <img src="https://wakatime.com/badge/user/c04373c7-eec5-42b8-a37f-94088430a3ac.svg" />
+  </a>
 </div>
 <br>
+
+<!-- [![codewars](https://www.codewars.com/users/tqmvt/badges/micro)](https://www.codewars.com/users/tqmvt)
+[![wakatime](https://wakatime.com/badge/user/c04373c7-eec5-42b8-a37f-94088430a3ac.svg)](https://wakatime.com/@tqmvt) -->
 
 <a href="https://app.daily.dev/tqmvt"><img src="./devcard.png" width="356" alt="Taylor Lee's Dev Card"/></a>
