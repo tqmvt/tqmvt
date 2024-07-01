@@ -11,6 +11,7 @@
   <a href="https://wakatime.com/@tqmvt">
     <img src="https://wakatime.com/badge/user/c04373c7-eec5-42b8-a37f-94088430a3ac.svg" alt="wakatime"/>
   </a>
+  <span>&nbsp;</span>
   <a href="https://www.codewars.com/users/tqmvt">
     <img src="https://www.codewars.com/users/tqmvt/badges/micro" width="120px" height="20px" alt="codewars"/>
   </a>
