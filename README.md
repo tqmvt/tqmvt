@@ -7,15 +7,15 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/tqmvt/count.svg" alt="visitor badge"/></p>
 
-<p align="center">
-  <a href="https://wakatime.com/@tqmvt">
-    <img src="https://wakatime.com/badge/user/c04373c7-eec5-42b8-a37f-94088430a3ac.svg" width="180px" height="20px" alt="wakatime"/>
-  </a>
-  <span>&nbsp;</span>
+<div align="center">
   <a href="https://www.codewars.com/users/tqmvt">
     <img src="https://www.codewars.com/users/tqmvt/badges/micro" width="120px" height="20px" alt="codewars"/>
   </a>
-</p>
+  <span>&nbsp;</span>
+  <a href="https://wakatime.com/@tqmvt">
+    <img src="https://wakatime.com/badge/user/c04373c7-eec5-42b8-a37f-94088430a3ac.svg" width="180px" height="20px" alt="wakatime"/>
+  </a>
+</div>
 
 <!-- [![codewars](https://www.codewars.com/users/tqmvt/badges/micro)](https://www.codewars.com/users/tqmvt)
 [![wakatime](https://wakatime.com/badge/user/c04373c7-eec5-42b8-a37f-94088430a3ac.svg)](https://wakatime.com/@tqmvt) -->
