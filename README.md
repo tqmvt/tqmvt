@@ -5,4 +5,3 @@
 <br>
 
 <a href="https://app.daily.dev/tqmvt"><img src="./devcard.png" width="356" alt="dev card"/></a>
-<p align="center">:fire:</p>
